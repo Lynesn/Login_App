@@ -17,4 +17,6 @@ User profile page.<br>
 
 <img height = "400" src="https://github.com/Lynesn/Login_App/blob/master/app/src/main/res/drawable/LoginPage.jpg">
 
+<b>User Profile Page:</b><br>
 
+<img height = "400" src="">

@@ -1,5 +1,15 @@
 # Login Registration Demo.
 
-Using MVVM, Databinding, Room; 
+A simple demo.
 
-A User can create or register an account with a profile picture and Login after to land on their profile page.
+Create a simple login, Registration demo using MVVM, databinding and Room.
+
+Required:
+User registration
+User Login
+User profile page.
+
+
+![User Registration page]("C:\Users\Personal\Desktop\1.JPG")
+
+

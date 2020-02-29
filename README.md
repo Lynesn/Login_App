@@ -4,12 +4,11 @@ A simple demo.
 
 Create a simple login, Registration demo using MVVM, databinding and Room.
 
-Required:
-User registration
-User Login
-User profile page.
+Required:<br>
+User registration<br>
+User Login<br>
+User profile page.<br>
 
+<b>User Registration Page:</b><br>
 
-![User Registration page]("C:\Users\Personal\Desktop\1.JPG")
-
-
+<img height = "400" src="https://github.com/Lynesn/Login_App/blob/master/app/src/main/res/drawable/1.JPG">
